@@ -1,2 +1,2 @@
 # task-3
-<img src = "lab3/scrollingview/scroll.gif"/>
+<img width="300" src = "lab3/scrollingview/scroll.gif"/>
